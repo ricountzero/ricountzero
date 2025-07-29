@@ -2,7 +2,7 @@
 
 🔭 Last time I worked on **web browser's extensions and add-ons** with *vanilla* **javascript** and **Python** to automate builds.
 
-🍅 Today I implement an automated irrigation system for my tomato bed with Raspberry Pi Zero 2W and Elixir (Nerves project).
+🍅 Today I implement an automated irrigation system for my tomato bed with Raspberry Pi Zero 2W and Elixir on [Nerves project](https://nerves-project.org/).
 
 🌱 Enjoying to code with **Elixir**, **Erlang**. Having a deep dive into **Functional Programming**.
 
