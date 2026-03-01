@@ -8,6 +8,6 @@
 
 Check out my [another GitHub account](https://github.com/liodnik).
 
-[![ricountzero's stats](https://github-readme-stats.vercel.app/api?username=ricountzero&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://helio-github-stats.vercel.app/api/top-langs?username=ricountzero&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+used+languages)](https://nice-readme.vercel.app/top-langs)
 
 [![codewars](https://www.codewars.com/users/Aliaksiej%20Maroz/badges/large)](https://www.codewars.com/users/Aliaksiej%20Maroz)
