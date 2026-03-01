@@ -4,7 +4,7 @@
 
 🔭 Last time I worked on **web browser's extensions and add-ons** with *vanilla* **javascript** and **Python** to automate builds.
 
-🌱 Enjoying to code with **Elixir**, **Erlang**, **Gleam**, **Clojure**. Having a deep dive into **Functional Programming**.
+🌱 Enjoying to code with **Elixir**, **Erlang**. Having a deep dive into **Functional Programming**.
 
 Check out my [another GitHub account](https://github.com/liodnik).
 
