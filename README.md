@@ -8,5 +8,3 @@
 🌱 Enjoying to code with **Elixir**. Having fun with **Functional Programming**.
 
 Check out my [another GitHub account](https://github.com/liodnik).
-
-[![codewars](https://www.codewars.com/users/Aliaksiej%20Maroz/badges/large)](https://www.codewars.com/users/Aliaksiej%20Maroz)
