@@ -1,4 +1,3 @@
-![RICOUNTZERO LASER](./RICOUNTZERO_LASER.svg)
 ## whoami 🖖🏻
 
 🍅 Today I implement an automated irrigation system for my tomato bed with Raspberry Pi Zero 2W and Elixir on [Nerves project](https://nerves-project.org/).
