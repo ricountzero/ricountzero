@@ -4,6 +4,6 @@
 
 🔭 Last time I worked on **web browser's extensions and add-ons** with *vanilla* **javascript** and **Python** to automate builds.
 
-🌱 Enjoying to code with **Elixir**. Having fun with **Functional Programming**.
+🌱 Enjoying to code with **Elixir**, **OCaml**. Having fun with **Functional Programming**.
 
 Check out my [another GitHub account](https://github.com/liodnik).
